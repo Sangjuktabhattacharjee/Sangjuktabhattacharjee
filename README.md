@@ -18,6 +18,16 @@
 
 🚀 **"Building the web, one line of code at a time!"**  
 
+
+## 📊 GitHub Stats  
+![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangjuktabhattacharjee&show_icons=true&theme=radical)  
+
+
+## 🎵 Currently Listening To  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/1XoSxbGeItsxcv5RCMWucE?si=ahLVQ0sZS52mk4KUCwlyQQ )
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sangjuktabhattacharjee&color=blue)
+
 <!---
 Sangjuktabhattacharjee/Sangjuktabhattacharjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
